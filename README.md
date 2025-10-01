@@ -11,7 +11,7 @@ It combines:
 - **Text features** from ASR transcripts using Whisper-small.  
 - **Hybrid fusion** with Logistic Regression, Random Forest, and XGBoost, aggregated by an Optuna-tuned ensemble.  
 
-On the VLSP 2025 private test set, DFAT achieves **0.8438 WA**, ranking **2nd place** in the competition.
+On the VLSP 2025 private test set, DFAT achieves **0.8438 WA**.
 
 <p align="center">
   <img src="Pipeline.png" width="600"/>
