@@ -26,4 +26,9 @@ We use three publicly available Vietnamese datasets:
 ## 🚀 Usage
 Code and training scripts will be released soon.  
 
+## 📬 Contact
+For questions and collaborations, please reach out to:  
+- 📧 nhitny2802@gmail.com  
+- 📧 lequangsang@siu.edu.vn  
+- 📧 tranquanghuyk15@siu.edu.vn  
 
