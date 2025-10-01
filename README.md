@@ -14,7 +14,7 @@ It combines:
 On the VLSP 2025 private test set, DFAT achieves **0.8438 WA**, ranking **2nd place** in the competition.
 
 <p align="center">
-  <img src="images/Pipeline_final.png" width="600"/>
+  <img src="images/Pipeline.png" width="600"/>
 </p>
 
 ## 📊 Datasets
