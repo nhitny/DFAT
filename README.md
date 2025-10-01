@@ -20,7 +20,7 @@ On the VLSP 2025 private test set, DFAT achieves **0.8438 WA**, ranking **2nd pl
 ## 📊 Datasets
 We use three publicly available Vietnamese datasets:
 - [ViSEC](https://huggingface.co/datasets/hustep-lab/ViSEC)  
-- [28k-vn](https://huggingface.co/datasets/natmin322/28k_vietnamese_voice_augmented_of_VinBigData)  
+- [28k-vn](https://huggingface.co/datasets/natmin322/28k_vietnamese_voice_augmented_of_VigBigData)  
 - [PhoAudiobook](https://huggingface.co/datasets/thivux/phoaudiobook)  
 
 ## 🚀 Usage
