@@ -1,0 +1,68 @@
+# ========================
+# Python cache & build
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.so
+*.egg-info/
+build/
+dist/
+
+# ========================
+# Virtual environments
+# ========================
+.venv/
+venv/
+env/
+
+# ========================
+# Logs & outputs
+# ========================
+logs/
+*.log
+outputs/
+experiments/**/logs/
+
+# ========================
+# Data & datasets
+# ========================
+data/
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.npy
+*.npz
+*.h5
+
+# ========================
+# Checkpoints / Models
+# ========================
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# ========================
+# Jupyter / Notebooks
+# ========================
+.ipynb_checkpoints/
+*.ipynb
+
+# ========================
+# OS / IDE files
+# ========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ========================
+# Environment & Secrets
+# ========================
+.env
+.env.*
+!*.env.example
